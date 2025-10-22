@@ -14,8 +14,8 @@ O nome do método registrar_vistorias sugere que há uma intenção de não apen
 No main, eu instanciei dois carros de passeio, sendo um para testar o exibir detalhes detalhado e um o exibir detalhes simples. Já o caminhão instanciei apenas um, criei 3 vistorias e depois mandei printar a lista de vistorias
 
 5--
-Acho que era isso que você queria, professor.
-Eu sei que fiz algumas coisas um pouco diferente e outras um pouco além do que foi pedido, mas espero que o conjunto final seja bom.
+Acho que era isso que você queria, professor. Não sei se ficou faltando alguma coisa aqui no readme.
+Eu sei que fiz algumas coisas um pouco diferente e outras um pouco além do que foi pedido, mas espero que o conjunto final esteja bom.
 
 Obrigado, 
     Victor Merling.
